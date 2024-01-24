@@ -32,7 +32,7 @@ function Search(){
 
     return(
         <div className='flex justify-center mt-14 flex-col px-[70] md:px-[150px]'>
-            <img src={banner} className='rounded-2xl w-[900px]' alt='banner for age of empire'/>
+            <img src={banner} className='rounded-2xl w-[9900px] ' alt='banner for age of empire'/>
             <div className='bg-white shadow-lg p-4 rounded-lg mt-[-20px] mx-[20%] flex'>
                 <input type='text' placeholder='Search Your Empire' className='bg-white text-gray-500 '/>
             </div>
